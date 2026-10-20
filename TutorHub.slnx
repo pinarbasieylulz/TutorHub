@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TutorHub.Api/TutorHub.Api.csproj" />
+    <Project Path="src/TutorHub.Application/TutorHub.Application.csproj" />
+    <Project Path="src/TutorHub.Domain/TutorHub.Domain.csproj" />
+    <Project Path="src/TutorHub.Infrastructure/TutorHub.Infrastructure.csproj" />
+  </Folder>
+</Solution>
